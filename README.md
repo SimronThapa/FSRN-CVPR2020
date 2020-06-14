@@ -37,4 +37,5 @@ title = {Dynamic Fluid Surface Reconstruction Using Deep Neural Network},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {June},
 year = {2020}
+}
 ```
