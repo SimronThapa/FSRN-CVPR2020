@@ -11,6 +11,9 @@ We present a dynamic fluid surface reconstruction network that recovers time-var
 
 Please remember to cite the paper if you use this dataset.
 
+## Training and Testing
+
+
 
 ## Citation
 ```
