@@ -6,6 +6,11 @@
 
 We present a dynamic fluid surface reconstruction network that recovers time-varying 3D fluid surfaces from a single viewpoint.
 
+## Contributions
+1. We design physics-motivated loss functions for network training
+2. We synthesize a large fluid dataset using physics-based modeling and rendering
+3. Our network is validated on real captured fluid data
+
 ## Datasets
 [Training](), [Validation](), [Testing]()
 
