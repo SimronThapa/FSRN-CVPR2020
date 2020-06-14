@@ -17,9 +17,11 @@ We present a dynamic fluid surface reconstruction network that recovers time-var
 Please remember to cite the paper if you use this dataset.
 
 ## Training and Testing
-
-
-
+The data preprocessing code (before training with FSRN-CNN) and data post-processing code for the predictions (before training with FSRN-RNN) will be made available soon.
+```
+python FSRN-CNN-train.py.py
+python FSRN-RNN-train.py.py
+```
 ## Citation
 ```
 @InProceedings{Thapa_2020_CVPR,
