@@ -22,6 +22,13 @@ The data preprocessing code (before training with FSRN-CNN) and data post-proces
 python FSRN-CNN-train.py
 python FSRN-RNN-train.py
 ```
+
+## Evaluation
+The code for evaluating the predictions with ground truth values. We use accuracy and error matrics.
+```
+python evaluate_metrics.py
+```
+
 ## Citation
 ```
 @InProceedings{Thapa_2020_CVPR,
