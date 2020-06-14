@@ -10,3 +10,14 @@ We present a dynamic fluid surface reconstruction network that recovers time-var
 [Training](), [Validation](), [Testing]()
 
 Please remember to cite the paper if you use this dataset.
+
+
+## Citation
+```
+@InProceedings{Thapa_2020_CVPR,
+author = {Thapa, Simron and Li, Nianyi and Ye, Jinwei},
+title = {Dynamic Fluid Surface Reconstruction Using Deep Neural Network},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {202
+```
