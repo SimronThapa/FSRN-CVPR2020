@@ -34,22 +34,22 @@ python evaluate_metrics.py
 1. Synthetic results
 
 <p float="left" align="middle">
-  <img src="./img/syn.gif" width="400" />
-  <img src="./img/syn1.gif" width="400" /> 
+  <img src="./img/syn.gif" width="420" />
+  <img src="./img/syn1.gif" width="420" /> 
 </p>
 
 2. Real Results
 
 <p float="left" align="middle">
-  <img src="./img/real.gif" width="400" />
-  <img src="./img/real1.gif" width="400" /> 
+  <img src="./img/real.gif" width="420" />
+  <img src="./img/real1.gif" width="420" /> 
 </p>
 
 3. Re-rendered Results
 
 <p float="left" align="middle">
-  <img src="./img/rerender.gif" width="400" />
-  <img src="./img/rerender1.gif" width="400" /> 
+  <img src="./img/rerender.gif" width="420" />
+  <img src="./img/rerender1.gif" width="420" /> 
 </p>
 
 ## Citation
