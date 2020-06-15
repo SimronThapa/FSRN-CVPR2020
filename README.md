@@ -31,7 +31,7 @@ The code for evaluating the predictions with ground truth values. We use accurac
 python evaluate_metrics.py
 ```
 ## Results
-1. Synthetic results
+1. Synthetic Results
 
 <p float="left" align="middle">
   <img src="./img/syn.gif" width="420" />
