@@ -57,7 +57,7 @@ python evaluate_metrics.py
 @InProceedings{Thapa_2020_CVPR,
 author = {Thapa, Simron and Li, Nianyi and Ye, Jinwei},
 title = {Dynamic Fluid Surface Reconstruction Using Deep Neural Network},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {June},
 year = {2020}
 }
