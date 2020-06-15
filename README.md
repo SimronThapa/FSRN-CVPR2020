@@ -45,8 +45,12 @@ python evaluate_metrics.py
   <img src="./img/real1.gif" width="400" /> 
 </p>
 
+3. Re-rendered Results
 
-
+<p float="left" align="middle">
+  <img src="./img/rerender.gif" width="400" />
+  <img src="./img/rerender1.gif" width="400" /> 
+</p>
 
 ## Citation
 ```
