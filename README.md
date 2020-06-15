@@ -55,6 +55,9 @@ python evaluate_metrics.py
 </p>
 
 ## Citation
+
+If you find this work useful, please consider citing:
+
 ```
 @InProceedings{Thapa_2020_CVPR,
 author = {Thapa, Simron and Li, Nianyi and Ye, Jinwei},
