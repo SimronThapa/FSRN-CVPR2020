@@ -2,7 +2,9 @@
 #### [Project Page](https://ivlab.cse.lsu.edu/FSRN_CVPR20.html) | [Paper](https://ivlab.cse.lsu.edu/pub/fluid_cvpr20.pdf)
 [Simron Thapa](https://simronthapa.github.io/), [Nianyi Li](https://sites.duke.edu/nianyi/), [Jinwei Ye](https://ivlab.cse.lsu.edu/), Imaging and Vision Lab, Louisiana State University. In CVPR 2020 (oral).
 
+<p float="left" align="middle">
 <img src="./img/3092-teaser.gif" width="200">
+</p>
 
 We present a dynamic fluid surface reconstruction network that recovers time-varying 3D fluid surfaces from a single viewpoint.
 
@@ -31,14 +33,14 @@ python evaluate_metrics.py
 ## Results
 1. Synthetic results
 
-<p float="left">
+<p float="left" align="middle">
   <img src="./img/syn.gif" width="500" />
   <img src="./img/syn1.gif" width="500" /> 
 </p>
 
 2. Real Results
 
-<p float="left">
+<p float="left" align="middle">
   <img src="./img/real.gif" width="500" />
   <img src="./img/real1.gif" width="500" /> 
 </p>
