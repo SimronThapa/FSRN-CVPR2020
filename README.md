@@ -28,6 +28,21 @@ The code for evaluating the predictions with ground truth values. We use accurac
 ```
 python evaluate_metrics.py
 ```
+## Results
+1. Synthetic results
+
+<p float="left">
+  <img src="./img/syn.gif" width="100" />
+  <img src="./img/syn1.gif" width="100" /> 
+</p>
+
+2. Real Results
+
+<p float="left">
+  <img src="./img/real.gif" width="100" />
+  <img src="./img/real1.gif" width="100" /> 
+</p>
+
 
 ## Citation
 ```
