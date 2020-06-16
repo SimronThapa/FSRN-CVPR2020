@@ -14,7 +14,7 @@ We present a dynamic fluid surface reconstruction network that recovers time-var
 3. Our network is validated on real captured fluid data
 
 ## Datasets
-The dataset will be ready to download on Tuesday, June 16,2020.
+Complete Training data will be made available soon.
 
 [Training](https://ivlab.cse.lsu.edu/data/Train.tar), [Validation](https://ivlab.cse.lsu.edu/data/Validation.tar), [Testing](https://ivlab.cse.lsu.edu/data/Test.tar)
 
