@@ -1,5 +1,6 @@
 Running steps:
 
+Create a 'RGB' folder with 'train' and 'val' sub-folders
 Add background pattern to 'RGB' folder
 
 Generate Training set:
