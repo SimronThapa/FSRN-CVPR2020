@@ -10,7 +10,7 @@ We present a dynamic fluid surface reconstruction network that recovers time-var
 
 ## Contributions
 1. We design physics-motivated loss functions for network training
-2. We synthesize a large fluid dataset using physics-based modeling and rendering
+2. We synthesize a large fluid dataset using physics-based modeling and rendering [Check out the folder "Fluid_wave_simulator". It is our synthetic data generation MatLab code.]
 3. Our network is validated on real captured fluid data
 
 ## Datasets
